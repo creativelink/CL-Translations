@@ -1,0 +1,646 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CLSignsApplication\n"
+"POT-Creation-Date: 2015-10-10 15:20-0000\n"
+"PO-Revision-Date: 2015-10-10 15:24-0000\n"
+"Last-Translator: Lotta Sundstrom <lotta@creativelinkstudio.co.uk>\n"
+"Language-Team: Lotta Sundstrom <lotta@creativelinkstudio.co.uk>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: ../../../../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: controllers\n"
+"X-Poedit-SearchPath-1: views\n"
+"X-Poedit-SearchPath-2: views/prices/elkjopno\n"
+"X-Poedit-SearchPath-3: views/prices/lefdalno\n"
+"X-Poedit-SearchPath-4: views/prices/gigantendk\n"
+"X-Poedit-SearchPath-5: views/prices/elgigantensv\n"
+"X-Poedit-SearchPath-6: views/prices/modals\n"
+"X-Poedit-SearchPath-7: views/prices/contracts\n"
+"X-Poedit-SearchPath-8: views/prices\n"
+"X-Poedit-SearchPath-9: views/site/user\n"
+"X-Poedit-SearchPath-10: views/site/layouts\n"
+"X-Poedit-SearchPath-11: views/site/contacts\n"
+"X-Poedit-SearchPath-12: views/site/campaigns\n"
+"X-Poedit-SearchPath-13: views/mobile\n"
+"X-Poedit-SearchPath-14: views/partials\n"
+"X-Poedit-SearchPath-15: views/emails\n"
+"X-Poedit-SearchPath-16: views/docs\n"
+"X-Poedit-SearchPath-17: views/layouts\n"
+"X-Poedit-SearchPath-18: ./storage/views/messages/\n"
+
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:10
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:84
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:160
+msgid "Contract"
+msgstr "Abonnemang"
+
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:30
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:104
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:181
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:144
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:265
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:73
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:120
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:76
+#: storage/views/messages//c86348016a4a140905a4d0bacc07a7b3.php:100
+#: storage/views/messages//fa321bb6fc57db4083bc95e4dded23bc.php:63
+#: controllers/product/ProductController.php:144
+#: controllers/product/ProductController.php:265
+#: controllers/product/adminProductController.php:120
+#: controllers/product/playtableController.php:73
+#: controllers/product/tabletController.php:76
+msgid "Price"
+msgstr "Pris"
+
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:50
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:125
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:202
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:275
+msgid "Offer"
+msgstr "Annons"
+
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:62
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:138
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:214
+msgid "Terms"
+msgstr "Villkor"
+
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:235
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:247
+msgid "Cash Price"
+msgstr "Kontantpris"
+
+#: storage/views/messages//0553ff43942d1797f9c4e4a6c4bafc07.php:287
+#: storage/views/messages//a76344c8d1cf39d320192b0d41de5099.php:584
+msgid "Anbefalt"
+msgstr "Rekommenderas"
+
+#: storage/views/messages//0c3673c2ac8d7bff24c34e001cd32ca0.php:71
+#: controllers/UpdateController.php:71
+msgid "Unexpected error, please try again later"
+msgstr ""
+
+#: storage/views/messages//11f0e64debfcc3bb38879dd823b013c5.php:291
+#: storage/views/messages//1730bf4555bed4ef6baf0b45ac597095.php:98
+#: storage/views/messages//729337fe03d7d653d114a3bd9dfb7bc5.php:700
+#: storage/views/messages//8673e6d71c384ff3b5e3855b6ff87f77.php:367
+#: storage/views/messages//9e83fb520fc196d5ca5996cc13ccd90f.php:320
+#: storage/views/messages//f47d17bc61654e2e5f33979aec22e18f.php:317
+#: storage/views/messages//fe5710c68d978901e972e3005b047b2c.php:699
+#: controllers/DownloadController.php:98 controllers/ElgigantendkController
+#: copy.php:699 controllers/ElgigantendkController.php:700
+#: controllers/ElgigantensvController.php:367
+#: controllers/ElkjopnoController.php:320
+#: controllers/gigantti/giganttiController.php:291
+#: controllers/lefdal/lefdalPriceController.php:317
+msgid "Download list is empty, please add phones to download list"
+msgstr "Listan är tom, lägg till mobiler innan du laddar ner"
+
+#: storage/views/messages//11f0e64debfcc3bb38879dd823b013c5.php:318
+#: storage/views/messages//729337fe03d7d653d114a3bd9dfb7bc5.php:728
+#: storage/views/messages//9e83fb520fc196d5ca5996cc13ccd90f.php:347
+#: storage/views/messages//f47d17bc61654e2e5f33979aec22e18f.php:344
+#: storage/views/messages//fe5710c68d978901e972e3005b047b2c.php:727
+#: controllers/ElgigantendkController copy.php:727
+#: controllers/ElgigantendkController.php:728
+#: controllers/ElkjopnoController.php:347
+#: controllers/gigantti/giganttiController.php:318
+#: controllers/lefdal/lefdalPriceController.php:344
+msgid " have an incorrect pricing details, please update before downloading"
+msgstr ""
+
+#: storage/views/messages//1730bf4555bed4ef6baf0b45ac597095.php:13
+#: controllers/DownloadController.php:13
+msgid "Download demo-ex sign"
+msgstr "Ladda ner demo-ex skylt"
+
+#: storage/views/messages//1730bf4555bed4ef6baf0b45ac597095.php:123
+#: controllers/DownloadController.php:123
+msgid ""
+" have an incorrect pricing details or product features are missing, please "
+"update before downloading"
+msgstr ""
+"har inget pris eller saknar produktinfo, uppdatera innan du laddar ner"
+
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:144
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:265
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:73
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:120
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:76
+#: storage/views/messages//fa321bb6fc57db4083bc95e4dded23bc.php:48
+#: controllers/product/ProductController.php:144
+#: controllers/product/ProductController.php:265
+#: controllers/product/adminProductController.php:120
+#: controllers/product/playtableController.php:73
+#: controllers/product/tabletController.php:76
+msgid "Code"
+msgstr "Kod"
+
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:144
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:265
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:73
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:120
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:76
+#: controllers/product/ProductController.php:144
+#: controllers/product/ProductController.php:265
+#: controllers/product/adminProductController.php:120
+#: controllers/product/playtableController.php:73
+#: controllers/product/tabletController.php:76
+msgid "Product"
+msgstr "Produkt"
+
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:144
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:265
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:73
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:120
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:76
+#: controllers/product/ProductController.php:144
+#: controllers/product/ProductController.php:265
+#: controllers/product/adminProductController.php:120
+#: controllers/product/playtableController.php:73
+#: controllers/product/tabletController.php:76
+msgid "Action"
+msgstr ""
+
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:285
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:99
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:146
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:102
+#: controllers/product/ProductController.php:285
+#: controllers/product/adminProductController.php:146
+#: controllers/product/playtableController.php:99
+#: controllers/product/tabletController.php:102
+msgid "Add a new product"
+msgstr "Lägg till produkt"
+
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:286
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:100
+#: storage/views/messages//4edd94bab8cd02da5295cce93685975f.php:20
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:147
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:103
+#: controllers/product/ProductController.php:286
+#: controllers/product/adminProductController.php:147
+#: controllers/product/playtableController.php:100
+#: controllers/product/tabletController.php:103
+msgid "Add Product"
+msgstr "Lägg till produkt"
+
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:317
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:131
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:178
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:134
+#: controllers/product/ProductController.php:317
+#: controllers/product/adminProductController.php:178
+#: controllers/product/playtableController.php:131
+#: controllers/product/tabletController.php:134
+msgid "Cannot find valid image from code"
+msgstr ""
+
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:349
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:163
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:210
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:166
+#: controllers/product/ProductController.php:349
+#: controllers/product/adminProductController.php:210
+#: controllers/product/playtableController.php:163
+#: controllers/product/tabletController.php:166
+msgid "Product was added"
+msgstr "Produkten lades till"
+
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:353
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:167
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:214
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:170
+#: controllers/product/ProductController.php:353
+#: controllers/product/adminProductController.php:214
+#: controllers/product/playtableController.php:167
+#: controllers/product/tabletController.php:170
+msgid "Product could not be added"
+msgstr ""
+
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:388
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:202
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:249
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:205
+#: controllers/product/ProductController.php:388
+#: controllers/product/adminProductController.php:249
+#: controllers/product/playtableController.php:202
+#: controllers/product/tabletController.php:205
+msgid "Update product"
+msgstr "Uppdatera produkt"
+
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:389
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:203
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:250
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:206
+#: controllers/product/ProductController.php:389
+#: controllers/product/adminProductController.php:250
+#: controllers/product/playtableController.php:203
+#: controllers/product/tabletController.php:206
+msgid "Update Product"
+msgstr "Uppdatera produkt"
+
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:501
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:314
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:375
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:317
+#: controllers/product/ProductController.php:501
+#: controllers/product/adminProductController.php:375
+#: controllers/product/playtableController.php:314
+#: controllers/product/tabletController.php:317
+msgid "Link contract prices"
+msgstr ""
+
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:502
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:315
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:376
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:318
+#: controllers/product/ProductController.php:502
+#: controllers/product/adminProductController.php:376
+#: controllers/product/playtableController.php:315
+#: controllers/product/tabletController.php:318
+msgid "Add Price"
+msgstr "Lägg till pris"
+
+#: storage/views/messages//1a0557bca21fe2f88e11469459104bf3.php:568
+#: storage/views/messages//22caead2be5a9b03b2a163e4cb1cb0b3.php:381
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:442
+#: storage/views/messages//c13c2e889ca8647c6952aeb23518a281.php:384
+#: controllers/product/ProductController.php:568
+#: controllers/product/adminProductController.php:442
+#: controllers/product/playtableController.php:381
+#: controllers/product/tabletController.php:384
+msgid "Priserna har uppdaterats/lagts till"
+msgstr ""
+
+#: storage/views/messages//4079ddda8ccf69322b8542ed4790d716.php:131
+#: controllers/ContractController.php:131
+msgid "The Contract was  added successfully"
+msgstr ""
+
+#: storage/views/messages//4079ddda8ccf69322b8542ed4790d716.php:133
+#: controllers/ContractController.php:133
+msgid "There was an error adding the contract, please try later"
+msgstr ""
+
+#: storage/views/messages//4079ddda8ccf69322b8542ed4790d716.php:174
+#: controllers/ContractController.php:174
+msgid "The contract was updated"
+msgstr "Abonnemanget har uppdaterats"
+
+#: storage/views/messages//4079ddda8ccf69322b8542ed4790d716.php:177
+#: controllers/ContractController.php:177
+msgid ""
+"There was an error trying to update the contract, please try again later"
+msgstr ""
+
+#: storage/views/messages//4079ddda8ccf69322b8542ed4790d716.php:209
+#: controllers/ContractController.php:209
+msgid "The contract was deleted"
+msgstr "Abonnemanget togs bort"
+
+#: storage/views/messages//4079ddda8ccf69322b8542ed4790d716.php:213
+#: controllers/ContractController.php:213
+msgid "There was an error deleting the contract, please try again later"
+msgstr ""
+
+#: storage/views/messages//4162868ac06ec0a82e79f662090d373b.php:10
+msgid "Signup"
+msgstr ""
+
+#: storage/views/messages//41f996fc830b19b0b4e49c55729d6fec.php:14
+#: storage/views/messages//654ef6af3d48adfa2ca2b35838a20c2e.php:14
+msgid "Hide archive"
+msgstr "Dölj arkiv"
+
+#: storage/views/messages//41f996fc830b19b0b4e49c55729d6fec.php:17
+#: storage/views/messages//654ef6af3d48adfa2ca2b35838a20c2e.php:17
+msgid "Show all"
+msgstr "Visa alla"
+
+#: storage/views/messages//55a9be11522acea774af31d606944a1c.php:13
+#: storage/views/messages//5ad305bffd5f7d7ea3ab6d1602b01ea2.php:186
+msgid "Search"
+msgstr "Sök"
+
+#: storage/views/messages//55a9be11522acea774af31d606944a1c.php:36
+msgid "All"
+msgstr "Alla"
+
+#: storage/views/messages//5816eda9e975ce293ac82441ad7f666c.php:3
+msgid "Create demo ex sign"
+msgstr "Skapa demo-ex skylt"
+
+#: storage/views/messages//5816eda9e975ce293ac82441ad7f666c.php:25
+msgid "Sign header"
+msgstr "Skyltrubrik"
+
+#: storage/views/messages//5816eda9e975ce293ac82441ad7f666c.php:30
+msgid "Demoex"
+msgstr ""
+
+#: storage/views/messages//5816eda9e975ce293ac82441ad7f666c.php:39
+msgid "Demo ex price"
+msgstr "Demo-ex pris"
+
+#: storage/views/messages//5ad305bffd5f7d7ea3ab6d1602b01ea2.php:58
+#: storage/views/messages//c86348016a4a140905a4d0bacc07a7b3.php:44
+msgid "Product name"
+msgstr "Produktnamn"
+
+#: storage/views/messages//5ad305bffd5f7d7ea3ab6d1602b01ea2.php:58
+#: storage/views/messages//c86348016a4a140905a4d0bacc07a7b3.php:44
+msgid "E.g. Samsung Galaxy S5"
+msgstr "T.e.x Samsung Galaxy S5"
+
+#: storage/views/messages//5ad305bffd5f7d7ea3ab6d1602b01ea2.php:69
+#: storage/views/messages//6ec577b5dc40ba9355d12e7cf723d159.php:55
+#: storage/views/messages//c86348016a4a140905a4d0bacc07a7b3.php:55
+#: storage/views/messages//fa321bb6fc57db4083bc95e4dded23bc.php:53
+msgid "Category"
+msgstr "Kategori"
+
+#: storage/views/messages//5ad305bffd5f7d7ea3ab6d1602b01ea2.php:114
+#: storage/views/messages//fa321bb6fc57db4083bc95e4dded23bc.php:71
+msgid "Description"
+msgstr "Beskriving"
+
+#: storage/views/messages//5ad305bffd5f7d7ea3ab6d1602b01ea2.php:123
+#: storage/views/messages//5ad305bffd5f7d7ea3ab6d1602b01ea2.php:131
+#: storage/views/messages//5ad305bffd5f7d7ea3ab6d1602b01ea2.php:139
+#: storage/views/messages//c86348016a4a140905a4d0bacc07a7b3.php:91
+msgid "Description/Salespoints"
+msgstr "Beskrivning/UPS"
+
+#: storage/views/messages//5ad305bffd5f7d7ea3ab6d1602b01ea2.php:183
+#: storage/views/messages//fa321bb6fc57db4083bc95e4dded23bc.php:164
+msgid ""
+"If image is not showing correctly, make sure that the code is correct and "
+"product is available online"
+msgstr ""
+
+#: storage/views/messages//68dc4f2adcd7a01c40fa60e7c3ed49f0.php:88
+msgid "Speed"
+msgstr "Hastighet"
+
+#: storage/views/messages//68dc4f2adcd7a01c40fa60e7c3ed49f0.php:161
+msgid "Kickback"
+msgstr ""
+
+#: storage/views/messages//7f3fc317efaf39a4f36344ede7e5fad7.php:193
+#: controllers/product/ProductPriceController.php:193
+msgid "Price updated successfully"
+msgstr "Priset har uppdaterats"
+
+#: storage/views/messages//82e0d6720eb945b18ad59c27c9aa2eaa.php:13
+#: storage/views/messages//82e0d6720eb945b18ad59c27c9aa2eaa.php:14
+msgid "Email"
+msgstr "E-Post"
+
+#: storage/views/messages//82e0d6720eb945b18ad59c27c9aa2eaa.php:13
+msgid "Confirmation required"
+msgstr "Du måste bekräfta innan du kan logga in"
+
+#: storage/views/messages//82e0d6720eb945b18ad59c27c9aa2eaa.php:17
+#: storage/views/messages//82e0d6720eb945b18ad59c27c9aa2eaa.php:18
+#: storage/views/messages//dcfeaaec3cbf6876fb42d81302b9e457.php:13
+msgid "Password"
+msgstr "Lösenord"
+
+#: storage/views/messages//82e0d6720eb945b18ad59c27c9aa2eaa.php:21
+#: storage/views/messages//82e0d6720eb945b18ad59c27c9aa2eaa.php:22
+msgid "Confirm password"
+msgstr "Bekräfta lösenord"
+
+#: storage/views/messages//82e0d6720eb945b18ad59c27c9aa2eaa.php:26
+msgid "Your name"
+msgstr "Ditt namn"
+
+#: storage/views/messages//82e0d6720eb945b18ad59c27c9aa2eaa.php:31
+msgid "Store name"
+msgstr "Butiksnamn"
+
+#: storage/views/messages//82e0d6720eb945b18ad59c27c9aa2eaa.php:37
+msgid "Sign size"
+msgstr "Skyltstorlek"
+
+#: storage/views/messages//82e0d6720eb945b18ad59c27c9aa2eaa.php:52
+msgid "Create a new account"
+msgstr "Skapa konto"
+
+#: storage/views/messages//94661082e0c8c7f7e2043273dc0277cd.php:204
+#: storage/views/messages//9b754623b2f325d4de27b4fd2172668b.php:135
+#: storage/views/messages//de2aaafed7bd7d98ff707dc0159e12f3.php:204
+msgid "Ja eller nej"
+msgstr "Ja eller nej"
+
+#: storage/views/messages//9b754623b2f325d4de27b4fd2172668b.php:21
+msgid "Screen"
+msgstr "Skärm"
+
+#: storage/views/messages//9b754623b2f325d4de27b4fd2172668b.php:27
+msgid "Screen size"
+msgstr "Skärmstorlek"
+
+#: storage/views/messages//9b754623b2f325d4de27b4fd2172668b.php:34
+msgid "Camera"
+msgstr "Kamera"
+
+#: storage/views/messages//9b754623b2f325d4de27b4fd2172668b.php:142
+msgid "sim card"
+msgstr "SIM-kort"
+
+#: storage/views/messages//9b754623b2f325d4de27b4fd2172668b.php:149
+msgid "Sim card size"
+msgstr "SIM-kortsstorlek"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:106
+msgid "You have"
+msgstr "Du har"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:106
+msgid "mobiles in downloads"
+msgstr "mobiler att ladda ner"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:137
+msgid "Remove all"
+msgstr "Ta bort alla"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:139
+msgid "Download"
+msgstr "Ladda ner"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:202
+msgid "Profile"
+msgstr "Profil"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:206
+msgid "Support"
+msgstr ""
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:210
+msgid "Logout"
+msgstr "Logga ut"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:219
+msgid "Start"
+msgstr ""
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:235
+msgid "Campaigns"
+msgstr "Annons"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:249
+msgid "Get started"
+msgstr "Börja här"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:289
+msgid "Downloads"
+msgstr "Ladda ner"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:292
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:316
+msgid "Mobiles"
+msgstr "Mobiler"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:297
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:317
+msgid "Tablets"
+msgstr "Surfplattor"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:302
+#: storage/views/messages//fa321bb6fc57db4083bc95e4dded23bc.php:83
+msgid "Playtable"
+msgstr ""
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:306
+msgid "Admin"
+msgstr "Admin"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:311
+msgid "Products"
+msgstr "Produkter"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:314
+msgid "Add product"
+msgstr "Lägg till produkt"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:324
+msgid "Contracts"
+msgstr "Abonnemang"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:331
+msgid "Pricelist"
+msgstr "Prislista"
+
+#: storage/views/messages//9c659d40c6520ad99cd1fb7efe3358ce.php:335
+msgid "Activate phones"
+msgstr "Aktivera telefon"
+
+#: storage/views/messages//ad143109512db7d99a2dda431297205a.php:129
+#: storage/views/messages//d8c11def48c24697ad6dbd7415b0aedf.php:37
+#: storage/views/messages//fa321bb6fc57db4083bc95e4dded23bc.php:24
+msgid "Update"
+msgstr "Uppdatera"
+
+#: storage/views/messages//af04a1e1389e705c75473178c27e27ed.php:120
+#: controllers/product/adminProductController.php:120
+msgid "Status"
+msgstr "Status"
+
+#: storage/views/messages//bcecc6319a464b2a9c99974a794a9404.php:14
+msgid "Price update for:"
+msgstr "Priset harr uppdaterats till: "
+
+#: storage/views/messages//d708f900b3658e30e574822336d025cd.php:10
+msgid "Forgot password"
+msgstr "Glömt lösen"
+
+#: storage/views/messages//d825d84bb8f65d022885a5fe245cdc4e.php:70
+#: controllers/CampaignController.php:70
+msgid "The Campaign have been added"
+msgstr ""
+
+#: storage/views/messages//d825d84bb8f65d022885a5fe245cdc4e.php:72
+#: controllers/CampaignController.php:72
+msgid "The Campaign could not be added please try again later"
+msgstr ""
+
+#: storage/views/messages//d825d84bb8f65d022885a5fe245cdc4e.php:144
+#: controllers/CampaignController.php:144
+msgid "The prices has been updated"
+msgstr ""
+
+#: storage/views/messages//d825d84bb8f65d022885a5fe245cdc4e.php:147
+#: controllers/CampaignController.php:147
+msgid "The price could not be updated, please try again later"
+msgstr ""
+
+#: storage/views/messages//d825d84bb8f65d022885a5fe245cdc4e.php:179
+#: controllers/CampaignController.php:179
+msgid "The campaign has been deleted"
+msgstr ""
+
+#: storage/views/messages//d825d84bb8f65d022885a5fe245cdc4e.php:183
+#: controllers/CampaignController.php:183
+msgid "The campaign could not be deleted"
+msgstr ""
+
+#: storage/views/messages//dcfeaaec3cbf6876fb42d81302b9e457.php:12
+msgid "Username or Email"
+msgstr "Användarnamn eller e-post"
+
+#: storage/views/messages//dcfeaaec3cbf6876fb42d81302b9e457.php:18
+msgid "Remember me"
+msgstr "Kom ihåg mig"
+
+#: storage/views/messages//dcfeaaec3cbf6876fb42d81302b9e457.php:33
+msgid "Login"
+msgstr "Logga in"
+
+#: storage/views/messages//dcfeaaec3cbf6876fb42d81302b9e457.php:34
+msgid "Forgot password?"
+msgstr "Glömt lösenord?"
+
+#: storage/views/messages//dcfeaaec3cbf6876fb42d81302b9e457.php:38
+msgid "Do not have an account?"
+msgstr "Har du inget loggin?"
+
+#: storage/views/messages//dcfeaaec3cbf6876fb42d81302b9e457.php:39
+msgid "Sign Up"
+msgstr "Skapa konto"
+
+#: storage/views/messages//fa321bb6fc57db4083bc95e4dded23bc.php:58
+msgid "Brand"
+msgstr "Märke"
+
+#: storage/views/messages//fa321bb6fc57db4083bc95e4dded23bc.php:112
+msgid "Mobile features"
+msgstr "Mobilspecifikationer"
+
+#: storage/views/messages//fa321bb6fc57db4083bc95e4dded23bc.php:117
+msgid "Download for playtable with contract prices"
+msgstr "Ladda ner Playtable med abonnemang"
+
+#: storage/views/messages//fa321bb6fc57db4083bc95e4dded23bc.php:119
+msgid "Download for playtable"
+msgstr "Ladda ner till Playtable"
+
+#: storage/views/messages//fa321bb6fc57db4083bc95e4dded23bc.php:126
+msgid "Download tablet"
+msgstr ""
+
+#: storage/views/messages//fa321bb6fc57db4083bc95e4dded23bc.php:153
+msgid "Update price"
+msgstr "Uppdatera pris"
+
+#~ msgid "Image"
+#~ msgstr "Bild"
+
+#~ msgid "Prices"
+#~ msgstr "Priser"

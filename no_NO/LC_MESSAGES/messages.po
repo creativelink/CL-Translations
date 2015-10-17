@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CLSignsApplication\n"
+"POT-Creation-Date: 2015-10-09 15:48+0000\n"
+"PO-Revision-Date: 2015-10-09 15:48+0000\n"
+"Last-Translator: Lotta Sundstrom <lotta@creativelinkstudio.co.uk>\n"
+"Language-Team: Lotta Sundstrom <lotta@creativelinkstudio.co.uk>\n"
+"Language: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: ../../../../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: controllers\n"
+"X-Poedit-SearchPath-1: views\n"
+"X-Poedit-SearchPath-2: views/prices/elkjopno\n"
+"X-Poedit-SearchPath-3: views/prices/lefdalno\n"
+"X-Poedit-SearchPath-4: views/prices/gigantendk\n"
+"X-Poedit-SearchPath-5: views/prices/elgigantensv\n"
+"X-Poedit-SearchPath-6: views/prices/modals\n"
+"X-Poedit-SearchPath-7: views/prices/contracts\n"
+"X-Poedit-SearchPath-8: views/prices\n"
+"X-Poedit-SearchPath-9: views/site/user\n"
+"X-Poedit-SearchPath-10: views/site/layouts\n"
+"X-Poedit-SearchPath-11: views/site/contacts\n"
+"X-Poedit-SearchPath-12: views/site/campaigns\n"
+"X-Poedit-SearchPath-13: views/mobile\n"
+"X-Poedit-SearchPath-14: views/partials\n"
+"X-Poedit-SearchPath-15: views/emails\n"
+"X-Poedit-SearchPath-16: views/docs\n"
+"X-Poedit-SearchPath-17: views/layouts\n"
+"X-Poedit-SearchPath-18: views/product\n"
+"X-Poedit-SearchPath-19: views/product/layouts\n"
+"X-Poedit-SearchPath-20: views/prices\n"
+"X-Poedit-SearchPath-21: views/contracts\n"
+"X-Poedit-SearchPath-22: views/modals\n"
+"X-Poedit-SearchPath-23: ./storage/views/messages/\n"
+
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:10
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:84
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:160
+msgid "Contract"
+msgstr "Abonnement"
+
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:30
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:104
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:181
+msgid "Price"
+msgstr "Pris"
+
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:50
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:125
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:202
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:265
+msgid "Offer"
+msgstr "Annonsert vare"
+
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:62
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:138
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:214
+msgid "Terms"
+msgstr "Vilkår"
+
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:235
+#: storage/views/messages/0553ff43942d1797f9c4e4a6c4bafc07.php:247
+msgid "Cash Price"
+msgstr "Uten abonnement"
+
+#: storage/views/messages/0c3673c2ac8d7bff24c34e001cd32ca0.php:71
+#: controllers/UpdateController.php:71
+msgid "Unexpected error, please try again later"
+msgstr ""
+
+#: storage/views/messages/4079ddda8ccf69322b8542ed4790d716.php:131
+#: controllers/ContractController.php:131
+msgid "The Contract was  added successfully"
+msgstr ""
+
+#: storage/views/messages/4079ddda8ccf69322b8542ed4790d716.php:133
+#: controllers/ContractController.php:133
+msgid "There was an error adding the contract, please try later"
+msgstr ""
+
+#: storage/views/messages/4079ddda8ccf69322b8542ed4790d716.php:174
+#: controllers/ContractController.php:174
+msgid "The contract was updated"
+msgstr ""
+
+#: storage/views/messages/4079ddda8ccf69322b8542ed4790d716.php:177
+#: controllers/ContractController.php:177
+msgid "There was an error trying to update the contract, please try again later"
+msgstr ""
+
+#: storage/views/messages/4079ddda8ccf69322b8542ed4790d716.php:209
+#: controllers/ContractController.php:209
+msgid "The contract was deleted"
+msgstr ""
+
+#: storage/views/messages/4079ddda8ccf69322b8542ed4790d716.php:213
+#: controllers/ContractController.php:213
+msgid "There was an error deleting the contract, please try again later"
+msgstr ""
+
+#: storage/views/messages/729337fe03d7d653d114a3bd9dfb7bc5.php:699
+#: storage/views/messages/8673e6d71c384ff3b5e3855b6ff87f77.php:367
+#: storage/views/messages/9e83fb520fc196d5ca5996cc13ccd90f.php:316
+#: storage/views/messages/f47d17bc61654e2e5f33979aec22e18f.php:317
+#: controllers/ElgigantendkController.php:699
+#: controllers/ElgigantensvController.php:367
+#: controllers/ElkjopnoController.php:316
+#: controllers/lefdal/lefdalPriceController.php:317
+msgid "Download list is empty, please add phones to download list"
+msgstr ""
+
+#: storage/views/messages/94661082e0c8c7f7e2043273dc0277cd.php:204
+msgid "Ja eller nej"
+msgstr ""
+
+#: storage/views/messages/9c659d40c6520ad99cd1fb7efe3358ce.php:93
+msgid "You have"
+msgstr ""
+
+#: storage/views/messages/9c659d40c6520ad99cd1fb7efe3358ce.php:93
+msgid "mobiles in downloads"
+msgstr ""
+
+#: storage/views/messages/9c659d40c6520ad99cd1fb7efe3358ce.php:123
+msgid "Remove all"
+msgstr ""
+
+#: storage/views/messages/9c659d40c6520ad99cd1fb7efe3358ce.php:125
+msgid "Download"
+msgstr ""
+
+#: storage/views/messages/9c659d40c6520ad99cd1fb7efe3358ce.php:188
+msgid "Profile"
+msgstr ""
+
+#: storage/views/messages/9c659d40c6520ad99cd1fb7efe3358ce.php:192
+msgid "Support"
+msgstr ""
+
+#: storage/views/messages/9c659d40c6520ad99cd1fb7efe3358ce.php:196
+msgid "Logout"
+msgstr ""
+
+#: storage/views/messages/9c659d40c6520ad99cd1fb7efe3358ce.php:205
+msgid "Start"
+msgstr ""
+
+#: storage/views/messages/9c659d40c6520ad99cd1fb7efe3358ce.php:234
+msgid "Prices"
+msgstr ""
+
+#: storage/views/messages/d825d84bb8f65d022885a5fe245cdc4e.php:70
+#: controllers/CampaignController.php:70
+msgid "The Campaign have been added"
+msgstr ""
+
+#: storage/views/messages/d825d84bb8f65d022885a5fe245cdc4e.php:72
+#: controllers/CampaignController.php:72
+msgid "The Campaign could not be added please try again later"
+msgstr ""
+
+#: storage/views/messages/d825d84bb8f65d022885a5fe245cdc4e.php:140
+#: controllers/CampaignController.php:140
+msgid "The prices has been updated"
+msgstr ""
+
+#: storage/views/messages/d825d84bb8f65d022885a5fe245cdc4e.php:143
+#: controllers/CampaignController.php:143
+msgid "The price could not be updated, please try again later"
+msgstr ""
+
+#: storage/views/messages/d825d84bb8f65d022885a5fe245cdc4e.php:175
+#: controllers/CampaignController.php:175
+msgid "The campaign has been deleted"
+msgstr ""
+
+#: storage/views/messages/d825d84bb8f65d022885a5fe245cdc4e.php:179
+#: controllers/CampaignController.php:179
+msgid "The campaign could not be deleted"
+msgstr ""
+
+#: storage/views/messages/d8c11def48c24697ad6dbd7415b0aedf.php:37
+msgid "Update"
+msgstr "Oppdater"
